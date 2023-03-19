@@ -14,6 +14,7 @@ Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified();
       while(1);
 
    }
+
 void loop(void) 
 
 {
